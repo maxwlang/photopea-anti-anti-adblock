@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Photopea Anti-Anti-Adblock",
+  "version": "1.0",
+  "description": "Patches out the Photopea anti-adblocker that prevents the application from working",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "icons": {
+    "128": "images/icon128.png"
+  }
+}
