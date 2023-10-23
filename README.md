@@ -9,3 +9,6 @@ This extension does not:
 - Disable telemetry
 - Disable popups asking for donations (I still encourage you to donate to Photopea if you use it)
 - Disable the donate button
+
+# Install
+On your Firefox Browser, download the [XPI file from the latest release here, when asked, add / install it](https://github.com/maxwlang/photopea-anti-anti-adblock/releases).
